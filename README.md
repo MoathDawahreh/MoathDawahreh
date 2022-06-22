@@ -10,4 +10,4 @@
 
  
 
-![BarryCarlyons's GitHub stats](https://github-readme-stats.vercel.app/api?username=moathdawahreh&show_icons=true&theme=tokyonight&count_private=false)
+![BarryCarlyons's GitHub stats](https://github-readme-stats.vercel.app/api?username=moathdawahreh&show_icons=true&theme=tokyonight&count_private=true)
