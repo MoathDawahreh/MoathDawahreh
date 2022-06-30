@@ -6,7 +6,6 @@
 - 👯 I’m looking to collaborate on ... Vue.js - React - Javascript - NodeJs                   
 - 💬 Ask me about ... Anything 
 - 📫 How to reach me: ... moath.dawahreh@gmail.com
-- 😄 Pronouns: ... He/Him
 
  
 
