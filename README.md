@@ -7,6 +7,8 @@
 - 💬 Ask me about ... Anything 
 - 📫 How to reach me: ... moath.dawahreh@gmail.com
 
- 
+
+
+ ![BarryCarlyons's GitHub stats](https://github-readme-stats.vercel.app/api?username=moathdawahreh&show_icons=true&theme=tokyonight&count_private=true)
 
  
