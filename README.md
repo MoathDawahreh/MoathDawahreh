@@ -5,7 +5,8 @@
 - 🔭 I’m currently working on ... - Firebase - NodeJs - NestJS - Typescript - PostgreSQL - Prisma - TypeORM - MongoDB - AWS                       
 - 👯 I’m willing to collaborate on ... Vue.js - NestJS - Typescript - TypeORM                   
 - 💬 Ask me about ... Anything 
-- 📫 How to reach me: Email: moath.dawahreh@gmail.com *** Linkedin: https://www.linkedin.com/in/moath-thawahreh-92b493aa
+- ✉ Email: moath.dawahreh@gmail.com
+- Linkedin: https://www.linkedin.com/in/moath-thawahreh-92b493aa
 
 
 
