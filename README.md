@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on ... - Firebase - NodeJs - NestJS - Typescript - PostgreSQL - Prisma - TypeORM - MongoDB - AWS                       
-- 👯 I’m willing to collaborate on ... Vue.js - NestJS - Typescript - TypeORM                   
+- 👯 I’m willing to collaborate on ... - NestJS - Typescript - TypeORM                   
 - 💬 Ask me about ... Anything 
 - ✉ Email: moath.dawahreh@gmail.com
 - Linkedin: https://www.linkedin.com/in/moath-thawahreh-92b493aa
